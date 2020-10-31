@@ -6,7 +6,13 @@ Amazon Stock Analysis: We will be performing Analysis on Amazon Stocks Data and 
 
  1) Kalman Filter
  2) GARCH
- 
+ 3) Moving Average 
+ 4) Fama French Regression-OLS-3 factor 
+(In process):
+5) LSTM 
+6) Elastic Net 
+7) MIDAS
+
  ### Trading Strategies:
 Rough idea : 
 
