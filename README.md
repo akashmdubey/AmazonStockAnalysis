@@ -4,15 +4,15 @@ Amazon Stock Analysis: We will be performing Analysis on Amazon Stocks Data and 
 
 ### Candidate Models: 
 
-Kalman Filter
-GARCH
-MIDAS
-Moving Average
-LSTM
-Random Forest
-Ridge Regression
-Elastic Net
-Model Combination (RF)
+1. Kalman Filter
+2. GARCH
+3. MIDAS
+4. Moving Average
+5. LSTM
+6. Random Forest
+7. Ridge Regression
+8. Elastic Net
+9. Model Combination (RF)
 
  ### Trading Strategies:
 
