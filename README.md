@@ -4,19 +4,22 @@ Amazon Stock Analysis: We will be performing Analysis on Amazon Stocks Data and 
 
 ### Candidate Models: 
 
- 1) Kalman Filter
- 2) GARCH
- 3) Moving Average 
- 4) Fama French Regression-OLS-3 factor 
-(In process):
-5) LSTM 
-6) Elastic Net 
-7) MIDAS
+Kalman Filter
+GARCH
+MIDAS
+Moving Average
+LSTM
+Random Forest
+Ridge Regression
+Elastic Net
+Model Combination (RF)
 
  ### Trading Strategies:
-Rough idea : 
 
-Day trading:
-The trading pattern you can take in US.Trade the same stock in 1 day.
-If(Predicted_close > Actual_open)
-->to make buy at 9am and sell at 5pm today;
+Day trading: The trading pattern you can take in US.Trade the same stock in 1 day. If(Predicted_close > Actual_open) ->make buy at 9am and sell at 5pm today; else ->just enjoy today;
+
+Swing trading: Buy, hold or sell depend on the stock and market trend. Efficient and Saves on taxes Based on identifying trend in stocks, like indicator
+
+Indicators: Bollinger Bands,Macd,Keltner Channel.
+
+The presentation for Amazon Stock Analysis can be found here:https://drive.google.com/file/d/1LlRC8F-M71g3qMlD2thWoButi6KQD23S/view?usp=sharing
